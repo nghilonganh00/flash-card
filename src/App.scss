@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: #7F00FF;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #7F00FF, #E100FF);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #7F00FF,  #E100FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  .navBar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+    z-index: 9;
+
+    .itemNav {
+      font-size: 32px;
+      padding: 18px 16px;
+      a { color: #551a8b; }
+      &:hover a > svg{
+        color: #fff;
+        transition: all 0.5s ease-out;
+      }
+    }
+    .btnNav {
+      position: absolute;
+      top: 50;
+      right: 0;
+    }
+    
+  }
+}
