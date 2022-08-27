@@ -1,0 +1,54 @@
+{
+  "words": [
+    {
+      "id": "v5mHXBb",
+      "word": "reputation",
+      "mean": "danh tiếng",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/ukr/ukrep/ukrepro016.mp3",
+      "correctRatio": 0.7,
+      "date": "11:16 12/08/2022"
+    },
+    {
+      "id": "ilK7w-o",
+      "word": "accompany",
+      "mean": "đồng hành",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uka/ukacc/ukacces017.mp3",
+      "correctRatio": 0.3,
+      "date": "11:17 12/08/2022"
+    },
+    {
+      "id": "PRCX-bZ",
+      "word": "convince",
+      "mean": "thuyết phục",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
+      "correctRatio": 0.2,
+      "date": "11:19 12/08/2022"
+    },
+    {
+      "id": "tmNLnMO",
+      "word": "rent",
+      "mean": "cho thuê",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
+      "correctRatio": 0.5,
+      "date": "11:43 12/08/2022"
+    },
+    {
+      "id": "hd0IUFf",
+      "word": "stubborn",
+      "mean": "bướng bỉnh",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
+      "correctRatio": 0.3,
+      "date": "11:43 12/08/2022"
+    }
+  ]
+}
