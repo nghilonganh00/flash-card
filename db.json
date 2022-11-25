@@ -1,54 +1,2567 @@
 {
   "words": [
     {
-      "id": "v5mHXBb",
-      "word": "reputation",
-      "mean": "danh tiếng",
+      "id": "d3-acVu",
+      "word": "receptionist",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/ukr/ukreb/ukrebui027.mp3",
+      "date": "21:21 30/08/2022"
+    },
+    {
+      "id": "HJS561c",
+      "word": "cashier",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cas/cashi/cashier.mp3",
+      "date": "21:22 30/08/2022"
+    },
+    {
+      "id": "hi7ImlD",
+      "word": "client",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cli/clien/client.mp3",
+      "date": "21:23 30/08/2022"
+    },
+    {
+      "id": "Z14pOwo",
+      "word": "passenger",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus73/eus73440.mp3",
+      "date": "21:23 30/08/2022"
+    },
+    {
+      "id": "qwRAwyv",
+      "word": "pedestrian",
+      "mean": "",
       "result": [
         "correct",
         "correct"
       ],
-      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/ukr/ukrep/ukrepro016.mp3",
-      "correctRatio": 0.7,
-      "date": "11:16 12/08/2022"
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/ped/pedes/pedestrian.mp3",
+      "date": "21:24 30/08/2022"
     },
     {
-      "id": "ilK7w-o",
-      "word": "accompany",
-      "mean": "đồng hành",
+      "id": "YeHnLjc",
+      "word": "vendor",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/v/ven/vendo/vendor.mp3",
+      "date": "21:24 30/08/2022"
+    },
+    {
+      "id": "Y654Sk-",
+      "word": "peering",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cbe/cbedu/cbedus07363.mp3",
+      "date": "21:28 30/08/2022"
+    },
+    {
+      "id": "762WG3M",
+      "word": "examining",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/e/exa/exami/examine.mp3",
+      "date": "21:30 30/08/2022"
+    },
+    {
+      "id": "Kvtge1o",
+      "word": "inspecting",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/i/ins/inspe/inspect.mp3",
+      "date": "21:30 30/08/2022"
+    },
+    {
+      "id": "F79uN_n",
+      "word": "reviewing",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/r/rev/revie/review.mp3",
+      "date": "21:31 30/08/2022"
+    },
+    {
+      "id": "IxYPzxd",
+      "word": "stare",
+      "mean": "",
       "result": [
         "correct"
       ],
-      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uka/ukacc/ukacces017.mp3",
-      "correctRatio": 0.3,
-      "date": "11:17 12/08/2022"
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sta/stair/stair.mp3",
+      "date": "21:31 30/08/2022"
     },
     {
-      "id": "PRCX-bZ",
-      "word": "convince",
-      "mean": "thuyết phục",
-      "result": [],
-      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
-      "correctRatio": 0.2,
-      "date": "11:19 12/08/2022"
+      "id": "VIUrQVE",
+      "word": "glance",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/g/gla/glanc/glance.mp3",
+      "date": "21:32 30/08/2022"
     },
     {
-      "id": "tmNLnMO",
-      "word": "rent",
-      "mean": "cho thuê",
-      "result": [],
-      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
-      "correctRatio": 0.5,
-      "date": "11:43 12/08/2022"
+      "id": "N2O5eh7",
+      "word": "hallway",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/h/hal/hallw/hallway_hall.mp3",
+      "date": "21:33 30/08/2022"
     },
     {
-      "id": "hd0IUFf",
-      "word": "stubborn",
-      "mean": "bướng bỉnh",
+      "id": "JUq64Hu",
+      "word": "lobby",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/l/lob/lobby/lobby.mp3",
+      "date": "21:33 30/08/2022"
+    },
+    {
+      "id": "W-JGFTn",
+      "word": "balcony",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/b/bal/balco/balcony.mp3",
+      "date": "21:34 30/08/2022"
+    },
+    {
+      "id": "t6z7zE1",
+      "word": "parking lot",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/u/usc/uscld/uscld01031.mp3",
+      "date": "21:34 30/08/2022"
+    },
+    {
+      "id": "7KSk4km",
+      "word": "construction",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/con/const/construction.mp3",
+      "date": "21:35 30/08/2022"
+    },
+    {
+      "id": "b8P_4Bu",
+      "word": "riverside",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/u/usr/usrim/usrimle025.mp3",
+      "date": "21:36 30/08/2022"
+    },
+    {
+      "id": "VmAt-g2",
+      "word": "airport",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/u/usa/usair/usairfa014.mp3",
+      "date": "21:36 30/08/2022"
+    },
+    {
+      "id": "nKwNtG9",
+      "word": "board",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/b/boa/board/board.mp3",
+      "date": "21:37 30/08/2022"
+    },
+    {
+      "id": "3abtHXM",
+      "word": "coat",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/coa/coat_/coat.mp3",
+      "date": "21:37 30/08/2022"
+    },
+    {
+      "id": "7y3ZttT",
+      "word": "train station",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cdo/cdo03/cdo0318ustrai5158.mp3",
+      "date": "21:37 30/08/2022"
+    },
+    {
+      "id": "FRwsby7",
+      "word": "scarf",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/s/sca/scarf/scarf.mp3",
+      "date": "21:38 30/08/2022"
+    },
+    {
+      "id": "g12i8wR",
+      "word": "glasses",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/g/gla/glass/glasses.mp3",
+      "date": "21:38 30/08/2022"
+    },
+    {
+      "id": "Hpl5Unk",
+      "word": "tie",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/t/tie/tie__/tie.mp3",
+      "date": "21:39 30/08/2022"
+    },
+    {
+      "id": "3vlnADI",
+      "word": "belt",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/b/bel/belt_/belt.mp3",
+      "date": "21:39 30/08/2022"
+    },
+    {
+      "id": "S5yPVqo",
+      "word": "boots",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/b/boo/boot_/boot.mp3",
+      "date": "21:40 30/08/2022"
+    },
+    {
+      "id": "maxHH-9",
+      "word": "backpack",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/b/bac/backp/backpack.mp3",
+      "date": "21:40 30/08/2022"
+    },
+    {
+      "id": "4aXoT87",
+      "word": "wear",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74948.mp3",
+      "date": "21:40 30/08/2022"
+    },
+    {
+      "id": "3UtRbMw",
+      "word": "put",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/put/put__/put.mp3",
+      "date": "21:41 30/08/2022"
+    },
+    {
+      "id": "NoBHWWB",
+      "word": "gear",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/g/gea/gear_/gear.mp3",
+      "date": "21:43 30/08/2022"
+    },
+    {
+      "id": "zAD9zYe",
+      "word": "push",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pus/push_/push.mp3",
+      "date": "11:02 04/09/2022"
+    },
+    {
+      "id": "940kk_W",
+      "word": "pull",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pul/pull_/pull.mp3",
+      "date": "11:02 04/09/2022"
+    },
+    {
+      "id": "QxlvvqE",
+      "word": "truck",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/t/tru/truck/truck.mp3",
+      "date": "11:06 04/09/2022"
+    },
+    {
+      "id": "LVwz6R5",
+      "word": "wall",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/w/wal/wall_/wall.mp3",
+      "date": "11:07 04/09/2022"
+    },
+    {
+      "id": "Ed47UZ7",
+      "word": "pond",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/p/pon/pond_/pond.mp3",
+      "date": "11:07 04/09/2022"
+    },
+    {
+      "id": "3i0riw0",
+      "word": "rest",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/r/res/rest_/rest.mp3",
+      "date": "11:08 04/09/2022"
+    },
+    {
+      "id": "_1zlPOk",
+      "word": "dock",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/d/doc/doc__/doc.mp3",
+      "date": "20:49 04/09/2022"
+    },
+    {
+      "id": "pwqrogN",
+      "word": "maintenance",
+      "mean": "",
       "result": [],
-      "audio": "https://dictionary.cambridge.org/vi/media/english/uk_pron/u/uks/ukstr/ukstrol030.mp3",
-      "correctRatio": 0.3,
-      "date": "11:43 12/08/2022"
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/m/mai/maint/maintenance.mp3",
+      "date": "20:51 04/09/2022"
+    },
+    {
+      "id": "OTn3imm",
+      "word": "headset",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72176.mp3",
+      "date": "20:55 04/09/2022"
+    },
+    {
+      "id": "ACoK_Qv",
+      "word": "vegetable",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/v/veg/veget/vegetable.mp3",
+      "date": "20:57 04/09/2022"
+    },
+    {
+      "id": "bjo7cdk",
+      "word": "curtain",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/c/cur/curta/curtain.mp3",
+      "date": "21:00 04/09/2022"
+    },
+    {
+      "id": "z7z8QE0",
+      "word": "neck",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/n/nec/neck_/neck.mp3",
+      "date": "21:01 04/09/2022"
+    },
+    {
+      "id": "lPstsII",
+      "word": "scissors",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/s/sci/sciss/scissors.mp3",
+      "date": "21:01 04/09/2022"
+    },
+    {
+      "id": "s64T4gF",
+      "word": "check",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/che/check/check.mp3",
+      "date": "22:28 06/09/2022"
+    },
+    {
+      "id": "UtX43hz",
+      "word": "inspect",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/i/ins/inspe/inspect.mp3",
+      "date": "22:29 06/09/2022"
+    },
+    {
+      "id": "8_TEifA",
+      "word": "examine",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/e/exa/exami/examine.mp3",
+      "date": "22:30 06/09/2022"
+    },
+    {
+      "id": "tYy-452",
+      "word": "look",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/l/loo/look_/look.mp3",
+      "date": "22:30 06/09/2022"
+    },
+    {
+      "id": "_UpsQzB",
+      "word": "peer",
+      "mean": "",
+      "result": [
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/pee/peer_/peer.mp3",
+      "date": "22:31 06/09/2022"
+    },
+    {
+      "id": "819vk8m",
+      "word": "review",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/r/rev/revie/review.mp3",
+      "date": "22:32 06/09/2022"
+    },
+    {
+      "id": "i59HYUJ",
+      "word": "hang",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/h/han/hang_/hang.mp3",
+      "date": "22:34 06/09/2022"
+    },
+    {
+      "id": "otuD4vJ",
+      "word": "hold",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/h/hol/hold_/hold.mp3",
+      "date": "22:34 06/09/2022"
+    },
+    {
+      "id": "xFpvrzH",
+      "word": "point",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/poi/point/point.mp3",
+      "date": "22:35 06/09/2022"
+    },
+    {
+      "id": "oGvY_Bp",
+      "word": "reach",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/r/rea/reach/reach.mp3",
+      "date": "22:36 06/09/2022"
+    },
+    {
+      "id": "xtUprt6",
+      "word": "take",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/t/tak/take_/take.mp3",
+      "date": "22:37 06/09/2022"
+    },
+    {
+      "id": "M4LhDmx",
+      "word": "order",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75280.mp3",
+      "date": "22:37 06/09/2022"
+    },
+    {
+      "id": "Q5_ffCN",
+      "word": "pay",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/pay/pay__/pay.mp3",
+      "date": "22:38 06/09/2022"
+    },
+    {
+      "id": "rlDvQIg",
+      "word": "adjust",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/a/adj/adjus/adjust.mp3",
+      "date": "22:38 06/09/2022"
+    },
+    {
+      "id": "Pz3rNk2",
+      "word": "lift",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/l/lif/lift_/lift.mp3",
+      "date": "22:38 06/09/2022"
+    },
+    {
+      "id": "2prHE_w",
+      "word": "load",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/l/loa/load_/load.mp3",
+      "date": "22:39 06/09/2022"
+    },
+    {
+      "id": "TNDULO1",
+      "word": "mop",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/m/mop/mop__/mop.mp3",
+      "date": "22:39 06/09/2022"
+    },
+    {
+      "id": "9qPD3NZ",
+      "word": "carry",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/car/carry/carry.mp3",
+      "date": "22:40 06/09/2022"
+    },
+    {
+      "id": "ZAx4Gvj",
+      "word": "clean",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cle/clean/clean.mp3",
+      "date": "22:41 06/09/2022"
+    },
+    {
+      "id": "LSGR1b4",
+      "word": "fill",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/f/fil/fill_/fill.mp3",
+      "date": "22:41 06/09/2022"
+    },
+    {
+      "id": "tXxkPly",
+      "word": "fix",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/f/fix/fix__/fix.mp3",
+      "date": "22:41 06/09/2022"
+    },
+    {
+      "id": "xwg2MhD",
+      "word": "pour",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/poo/poor_/poor.mp3",
+      "date": "22:44 06/09/2022"
+    },
+    {
+      "id": "hH1ZGt1",
+      "word": "pull",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/pul/pull_/pull.mp3",
+      "date": "22:44 06/09/2022"
+    },
+    {
+      "id": "l9iAPvG",
+      "word": "push",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/pus/push_/push.mp3",
+      "date": "22:44 06/09/2022"
+    },
+    {
+      "id": "P_ngIWl",
+      "word": "stack",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/stack/stack.mp3",
+      "date": "22:45 06/09/2022"
+    },
+    {
+      "id": "y3l3I_k",
+      "word": "sweep",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/s/swe/sweep/sweep.mp3",
+      "date": "22:45 06/09/2022"
+    },
+    {
+      "id": "auw1grG",
+      "word": "operate",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/e/eus/eus75/eus75231.mp3",
+      "date": "22:45 06/09/2022"
+    },
+    {
+      "id": "BDXzOmA",
+      "word": "wipe",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/w/wip/wipe_/wipe.mp3",
+      "date": "22:46 06/09/2022"
+    },
+    {
+      "id": "BxUv6VV",
+      "word": "climb",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cli/climb/climb.mp3",
+      "date": "22:47 06/09/2022"
+    },
+    {
+      "id": "QElzWic",
+      "word": "lie",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/l/lie/lie__/lie.mp3",
+      "date": "22:50 06/09/2022"
+    },
+    {
+      "id": "1tskqw7",
+      "word": "lean",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/l/lea/lean_/lean.mp3",
+      "date": "22:52 06/09/2022"
+    },
+    {
+      "id": "I7ZdyNE",
+      "word": "ride",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/media/english/us_pron/r/rid/ride_/ride.mp3",
+      "date": "22:53 06/09/2022"
+    },
+    {
+      "id": "hZBOU2N",
+      "word": "sit",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/s/sit/sit__/sit.mp3",
+      "date": "22:55 06/09/2022"
+    },
+    {
+      "id": "wEAufP5",
+      "word": "stand",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/s/sta/stand/stand.mp3",
+      "date": "22:55 06/09/2022"
+    },
+    {
+      "id": "KKO4ALK",
+      "word": "wait",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/w/wai/wait_/wait.mp3",
+      "date": "22:56 06/09/2022"
+    },
+    {
+      "id": "sg5dmdN",
+      "word": "board",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/b/boa/board/board.mp3",
+      "date": "22:56 06/09/2022"
+    },
+    {
+      "id": "Af3Fcvv",
+      "word": "cross",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/c/cro/cross/cross.mp3",
+      "date": "22:56 06/09/2022"
+    },
+    {
+      "id": "zW38q38",
+      "word": "exit",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/e/exi/exit_/exit.mp3",
+      "date": "22:57 06/09/2022"
+    },
+    {
+      "id": "K8mFIba",
+      "word": "wave",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/w/wai/waive/waive.mp3",
+      "date": "22:58 06/09/2022"
+    },
+    {
+      "id": "6xLHk0Z",
+      "word": "face",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/f/fac/face_/face.mp3",
+      "date": "22:58 06/09/2022"
+    },
+    {
+      "id": "Y38Hq94",
+      "word": "walk",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/w/wal/walk_/walk.mp3",
+      "date": "22:58 06/09/2022"
+    },
+    {
+      "id": "LTlOfT6",
+      "word": "talk",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/t/tal/talk_/talk.mp3",
+      "date": "22:58 06/09/2022"
+    },
+    {
+      "id": "0Q2Bjxc",
+      "word": "try",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/t/try/try__/try.mp3",
+      "date": "22:59 06/09/2022"
+    },
+    {
+      "id": "NebBIwF",
+      "word": "put",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/p/put/put__/put.mp3",
+      "date": "22:59 06/09/2022"
+    },
+    {
+      "id": "6f-LzYH",
+      "word": "arrange",
+      "mean": "",
+      "result": [],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/a/arr/arran/arrange.mp3",
+      "date": "23:00 06/09/2022"
+    },
+    {
+      "id": "IVZ9Eyk",
+      "word": "attach",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dictionary.cambridge.org/vi/media/english/us_pron/a/att/attac/attach.mp3",
+      "date": "23:00 06/09/2022"
+    },
+    {
+      "id": "yzqyf4v",
+      "word": "employee",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=employee&type=2",
+      "date": "21:58 11/09/2022"
+    },
+    {
+      "id": "eYpIdQ7",
+      "word": "staff",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=staff&type=2",
+      "date": "21:59 11/09/2022"
+    },
+    {
+      "id": "f78sunv",
+      "word": "account",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=account&type=2",
+      "date": "22:01 11/09/2022"
+    },
+    {
+      "id": "mcJ7DlM",
+      "word": "recruit",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=recruit&type=2",
+      "date": "22:02 11/09/2022"
+    },
+    {
+      "id": "YcI4xll",
+      "word": "employer",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=employer&type=2",
+      "date": "22:26 11/09/2022"
+    },
+    {
+      "id": "IgDXVFU",
+      "word": "owner",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=owner&type=2",
+      "date": "22:26 11/09/2022"
+    },
+    {
+      "id": "xjTyXPB",
+      "word": "Boss",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=Boss&type=2",
+      "date": "22:26 11/09/2022"
+    },
+    {
+      "id": "Mq3CxRA",
+      "word": "technician  ",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=technician&type=2",
+      "date": "22:29 11/09/2022"
+    },
+    {
+      "id": "V5oA-qq",
+      "word": "boss",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=boss&type=2",
+      "date": "22:31 11/09/2022"
+    },
+    {
+      "id": "jwBP5IY",
+      "word": "accountant",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=accountant&type=2",
+      "date": "22:32 11/09/2022"
+    },
+    {
+      "id": "AvuviyV",
+      "word": "guest",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=guest&type=2",
+      "date": "22:32 11/09/2022"
+    },
+    {
+      "id": "rq8VZVT",
+      "word": "lawyer",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=lawyer&type=2",
+      "date": "22:32 11/09/2022"
+    },
+    {
+      "id": "u0Ol7ks",
+      "word": "attorney",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=attorney&type=2",
+      "date": "22:34 11/09/2022"
+    },
+    {
+      "id": "CQoiKfK",
+      "word": "partner",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=partner&type=2",
+      "date": "22:34 11/09/2022"
+    },
+    {
+      "id": "L2M6FWD",
+      "word": "co-worker",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=co-worker&type=2",
+      "date": "22:34 11/09/2022"
+    },
+    {
+      "id": "gqsK0Uq",
+      "word": "colleague ",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=colleague&type=2",
+      "date": "22:34 11/09/2022"
+    },
+    {
+      "id": "fFmRtW0",
+      "word": "college",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=college&type=2",
+      "date": "22:34 11/09/2022"
+    },
+    {
+      "id": "PgQfX3Z",
+      "word": "mechanic",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=mechanic&type=2",
+      "date": "22:35 11/09/2022"
+    },
+    {
+      "id": "04RU-qS",
+      "word": "plumber",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=plumber&type=2",
+      "date": "22:35 11/09/2022"
+    },
+    {
+      "id": "K_4mfLC",
+      "word": "resources",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=resources&type=2",
+      "date": "22:35 11/09/2022"
+    },
+    {
+      "id": "IFk6nO6",
+      "word": "personnel",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=personnel&type=2",
+      "date": "22:36 11/09/2022"
+    },
+    {
+      "id": "FQZDy3F",
+      "word": "assistant",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=assistant&type=2",
+      "date": "22:36 11/09/2022"
+    },
+    {
+      "id": "TADvtNU",
+      "word": "secretary",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=secretary&type=2",
+      "date": "22:36 11/09/2022"
+    },
+    {
+      "id": "BPFjalQ",
+      "word": "office",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=office&type=2",
+      "date": "22:36 11/09/2022"
+    },
+    {
+      "id": "Zn9Sgxa",
+      "word": "cabinet",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=cabinet&type=2",
+      "date": "22:36 11/09/2022"
+    },
+    {
+      "id": "mvzkHFl",
+      "word": "drawer",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=drawer&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "45p9Ypv",
+      "word": "drawer",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=drawer&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "IFlfzQT",
+      "word": "service",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=service&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "5tWFrq6",
+      "word": "post",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=post&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "hs75yv7",
+      "word": "department",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=department&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "rYOZUJf",
+      "word": "apartment",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=apartment&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "47vJS-p",
+      "word": "downstairs",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=downstairs&type=2",
+      "date": "22:37 11/09/2022"
+    },
+    {
+      "id": "K5VTCY1",
+      "word": "upstairs",
+      "mean": "",
+      "result": [
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=upstairs&type=2",
+      "date": "22:38 11/09/2022"
+    },
+    {
+      "id": "iYUSZmp",
+      "word": "warehouse ",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=warehouse&type=2",
+      "date": "22:38 11/09/2022"
+    },
+    {
+      "id": "R36M2hs",
+      "word": "store",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=store&type=2",
+      "date": "22:38 11/09/2022"
+    },
+    {
+      "id": "0N0TU39",
+      "word": "space",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=space&type=2",
+      "date": "22:36 17/09/2022"
+    },
+    {
+      "id": "QEH4tdP",
+      "word": "maintenance ",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=maintenance&type=2",
+      "date": "22:38 17/09/2022"
+    },
+    {
+      "id": "11Rtkud",
+      "word": "session",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=session&type=2",
+      "date": "22:39 17/09/2022"
+    },
+    {
+      "id": "x-nf8JR",
+      "word": "build",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=build&type=2",
+      "date": "19:40 18/09/2022"
+    },
+    {
+      "id": "bVqNOLN",
+      "word": "depart",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=depart&type=2",
+      "date": "14:34 27/09/2022"
+    },
+    {
+      "id": "7HQPixo",
+      "word": "contain",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=contain&type=2",
+      "date": "14:35 27/09/2022"
+    },
+    {
+      "id": "_l1q2dw",
+      "word": "announce",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=announce&type=2",
+      "date": "14:35 27/09/2022"
+    },
+    {
+      "id": "8zr-eXq",
+      "word": "coordinate",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=coordinate&type=2",
+      "date": "14:35 27/09/2022"
+    },
+    {
+      "id": "47q0Sk6",
+      "word": "resume",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=resume&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "Gz6MISQ",
+      "word": "repair",
+      "mean": "",
+      "result": [
+        "correct",
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=repair&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "rhLy1wI",
+      "word": "confirm",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=confirm&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "iBx9co3",
+      "word": "decide",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=decide&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "AkTX3Rb",
+      "word": "offer",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=offer&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "goiDAWH",
+      "word": "cover",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=cover&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "DihCJoF",
+      "word": "transfer",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=transfer&type=2",
+      "date": "14:36 27/09/2022"
+    },
+    {
+      "id": "FJrubUj",
+      "word": "remain",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "incorrect",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=remain&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "c51ef0b",
+      "word": "conduct",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=conduct&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "NXyHufU",
+      "word": "discontinue",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=discontinue&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "_wYcgzQ",
+      "word": "introduce",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=introduce&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "jWuhda_",
+      "word": "review",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=review&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "ZfiwArg",
+      "word": "determine",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=determine&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "qPoCsS2",
+      "word": "retire",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=retire&type=2",
+      "date": "14:37 27/09/2022"
+    },
+    {
+      "id": "hdktB-Y",
+      "word": "manage",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=manage&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "Nm1rHxJ",
+      "word": "conclude",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=conclude&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "e3cepIU",
+      "word": "perform",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=perform&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "CZux9Lo",
+      "word": "hold",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=hold&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "1t9oJlw",
+      "word": "solve",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=solve&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "oO3P3rB",
+      "word": "adjust",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=adjust&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "yw3scuC",
+      "word": "expect",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=expect&type=2",
+      "date": "14:38 27/09/2022"
+    },
+    {
+      "id": "uA3E8j3",
+      "word": "damage",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=damage&type=2",
+      "date": "14:39 27/09/2022"
+    },
+    {
+      "id": "n_g1zXs",
+      "word": "submit",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=submit&type=2",
+      "date": "14:39 27/09/2022"
+    },
+    {
+      "id": "Jno8SDP",
+      "word": "supply",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=supply&type=2",
+      "date": "14:39 27/09/2022"
+    },
+    {
+      "id": "l7TRM6P",
+      "word": "deduct",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=deduct&type=2",
+      "date": "14:39 27/09/2022"
+    },
+    {
+      "id": "IaROHpb",
+      "word": "invite",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=invite&type=2",
+      "date": "14:39 27/09/2022"
+    },
+    {
+      "id": "8S6Vpm8",
+      "word": "sponsor",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=sponsor&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "iO5HPWa",
+      "word": "participate",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=participate&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "yoxI6ih",
+      "word": "charge",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=charge&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "t6YLXQ8",
+      "word": "accompany",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=accompany&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "bMDIl9_",
+      "word": "prohibit",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=prohibit&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "AF4FXwH",
+      "word": "interrupt",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=interrupt&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "X-BAc93",
+      "word": "notify",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=notify&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "dhH7mR5",
+      "word": "maintain",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=maintain&type=2",
+      "date": "14:40 27/09/2022"
+    },
+    {
+      "id": "F1Zbm7-",
+      "word": "recommend",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=recommend&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "cfOG5dq",
+      "word": "praise",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=praise&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "F-E6aYB",
+      "word": "positive",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "incorrect",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=positive&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "ywB27Y6",
+      "word": "receive",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=receive&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "ymsS7W_",
+      "word": "celebrate",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=celebrate&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "WQehTQp",
+      "word": "assign",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=assign&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "N0OJX3t",
+      "word": "manufacture",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=manufacture&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "2ozmYqI",
+      "word": "candidate",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=candidate&type=2",
+      "date": "14:41 27/09/2022"
+    },
+    {
+      "id": "GbRxD3T",
+      "word": "request",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=request&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "gmKgzOT",
+      "word": "permit",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=permit&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "fLiKmqJ",
+      "word": "refund",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=refund&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "8sGwuBN",
+      "word": "quarter",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=quarter&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "XaYd_2e",
+      "word": "patron",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=patron&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "wIvJE1l",
+      "word": "analyst",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "incorrect",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=analyst&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "K37crtK",
+      "word": "annual",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=annual&type=2",
+      "date": "14:42 27/09/2022"
+    },
+    {
+      "id": "C6MdL2q",
+      "word": "fund-raising",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=fund-raising&type=2",
+      "date": "14:43 27/09/2022"
+    },
+    {
+      "id": "2I1ASVe",
+      "word": "association",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=association&type=2",
+      "date": "15:15 03/10/2022"
+    },
+    {
+      "id": "oRQO_mR",
+      "word": "completion",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=completion&type=2",
+      "date": "15:15 03/10/2022"
+    },
+    {
+      "id": "X0C4Ej2",
+      "word": "distribution",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=distribution&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "5ybOQ10",
+      "word": "research",
+      "mean": "",
+      "result": [
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=research&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "Us2lOWe",
+      "word": "renovation",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=renovation&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "EVEoF_y",
+      "word": "impression",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=impression&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "Z2xIzCc",
+      "word": "representative",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=representative&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "0UrGz3x",
+      "word": "representation",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=representation&type=2",
+      "date": "15:16 03/10/2022"
+    },
+    {
+      "id": "JyhBKdn",
+      "word": "applicant",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=applicant&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "HilR_ey",
+      "word": "priority",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "sbGRm2C",
+      "word": "order",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=order&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "0Mp3Dyd",
+      "word": "value",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=value&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "qVrIuBf",
+      "word": "corporation",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=corporation&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "2o4AQWL",
+      "word": "opening",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=opening&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "vfyRdfM",
+      "word": "laboratory",
+      "mean": "",
+      "result": [
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=laboratory&type=2",
+      "date": "15:17 03/10/2022"
+    },
+    {
+      "id": "WdqBnAY",
+      "word": "benefit",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=benefit&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "RKQBluB",
+      "word": "operator",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=operator&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "KqtzpO0",
+      "word": "supervisor",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=supervisor&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "J2TQ6n3",
+      "word": "qualification",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=qualification&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "BypHVbE",
+      "word": "consumer",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=consumer&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "CvaV-hX",
+      "word": "consumption",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=consumption&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "6hy6jpx",
+      "word": "duty",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=duty&type=2",
+      "date": "15:18 03/10/2022"
+    },
+    {
+      "id": "nVQ0poW",
+      "word": "management",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=management&type=2",
+      "date": "15:19 03/10/2022"
+    },
+    {
+      "id": "p51JQC_",
+      "word": "respect",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=respect&type=2",
+      "date": "15:19 03/10/2022"
+    },
+    {
+      "id": "6aJk2KB",
+      "word": "signature",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=signature&type=2",
+      "date": "15:19 03/10/2022"
+    },
+    {
+      "id": "eW6oLNv",
+      "word": "proposal",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=proposal&type=2",
+      "date": "15:19 03/10/2022"
+    },
+    {
+      "id": "I6gR-Gx",
+      "word": "beverage",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct",
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=beverage&type=2",
+      "date": "15:19 03/10/2022"
+    },
+    {
+      "id": "X19xoq-",
+      "word": "participation",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=participation&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "XLYV5qi",
+      "word": "agreement",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=agreement&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "cS38vSO",
+      "word": "complaint",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=complaint&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "tjvSL6g",
+      "word": "function",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=function&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "8U8ehrV",
+      "word": "alternative",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=alternative&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "UkulARq",
+      "word": "enrollment",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=enrollment&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "XRiMLxU",
+      "word": "promotion",
+      "mean": "",
+      "result": [
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=promotion&type=2",
+      "date": "15:20 03/10/2022"
+    },
+    {
+      "id": "Lte7RqN",
+      "word": "summary",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=summary&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "FjSQS1G",
+      "word": "appreciation",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=appreciation&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "k5O4jGa",
+      "word": "acceptance",
+      "mean": "",
+      "result": [
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=acceptance&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "dlZ9ehU",
+      "word": "arrival",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=arrival&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "mVkwTUM",
+      "word": "mention",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=mention&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "y_mChEz",
+      "word": "register",
+      "mean": "",
+      "result": [
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=register&type=2",
+      "date": "15:21 03/10/2022"
+    },
+    {
+      "id": "Pb_xTJt",
+      "word": "include",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=include&type=2",
+      "date": "15:22 03/10/2022"
+    },
+    {
+      "id": "F_XWT-j",
+      "word": "propose",
+      "mean": "",
+      "result": [
+        "incorrect"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=propose&type=2",
+      "date": "15:22 03/10/2022"
+    },
+    {
+      "id": "_7EHWXx",
+      "word": "confirm",
+      "mean": "",
+      "result": [],
+      "audio": "https://dict.youdao.com/dictvoice?audio=confirm&type=2",
+      "date": "15:22 03/10/2022"
+    },
+    {
+      "id": "K7A8LWF",
+      "word": "promote",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "date": "15:22 03/10/2022"
+    },
+    {
+      "id": "Ojtkr72",
+      "word": "harvest",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=harvest&type=2",
+      "date": "15:23 03/10/2022"
+    },
+    {
+      "id": "RHbBoyr",
+      "word": "appointment",
+      "mean": "",
+      "result": [
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=appointment&type=2",
+      "date": "15:23 03/10/2022"
+    },
+    {
+      "id": "yOXc5d6",
+      "word": "announce",
+      "mean": "",
+      "result": [
+        "correct",
+        "incorrect",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=announce&type=2",
+      "date": "15:23 03/10/2022"
+    },
+    {
+      "id": "5h_km4v",
+      "word": "acquire",
+      "mean": "",
+      "result": [
+        "correct",
+        "correct"
+      ],
+      "audio": "https://dict.youdao.com/dictvoice?audio=acquire&type=2",
+      "date": "15:23 03/10/2022"
     }
   ]
 }

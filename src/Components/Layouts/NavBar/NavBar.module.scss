@@ -1,0 +1,28 @@
+.navBar {
+    min-width: 77px;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--primary);
+}
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 77px;
+}
+.top {
+    margin-bottom: 40px;
+}
+.item {
+    font-size: 26px;
+    padding: 18px 23px;
+    &:hover a > svg{
+        color: #fff;
+        transition: all 0.5s ease-out;
+    }
+}
+.iconNav {
+        
+}
