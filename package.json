@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/roboto": "^4.5.8",
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-regular-svg-icons": "^6.1.2",
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.10.15",
+    "@mui/material": "^5.10.15",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -21,7 +26,7 @@
     "web-vitals": "^2.1.4"
   },
   "main": "public/electron.js",
-  "homepage": "./",
+  "homepage": "http://./",
   "scripts": {
     "start": "concurrently \"json-server -p 3006 -w db.json\" \"react-scripts start\"",
     "build": "react-scripts build",
@@ -52,5 +57,8 @@
     "concurrently": "^7.3.0",
     "electron-util": "^0.17.2",
     "howler": "^2.2.3"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "author": "",
+  "license": "ISC"
 }

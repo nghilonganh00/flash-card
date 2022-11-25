@@ -1,8 +1,9 @@
 import classNames from "classnames/bind";
-import styles from './Button.module.scss'
+
+import styles from './StartGameBtn.module.scss'
 
 const cx = classNames.bind(styles)
-function Button({ children, onClick }) {
+function StartGameBtn({ children, onClick }) {
     const props = {
         onClick,
     }
@@ -17,5 +18,4 @@ function Button({ children, onClick }) {
         </div>
      );
 }
-
-export default Button;
+export default StartGameBtn

@@ -21,6 +21,7 @@ function Store() {
     const handleSingleRemove = (id) => {
         removeWord(id)
         
+        
     }
     const soundPlay = (src) => {
         const sound = new Howl ({
@@ -40,8 +41,6 @@ function Store() {
         }
         getAllWords()
     },[])
-    console.log("render")
-    console.log(data)
     return (
         <div className={cx('wrapper')}>
             <div className={cx('navTop')}>

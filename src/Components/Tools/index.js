@@ -1,18 +1,18 @@
 import classNames from 'classnames/bind'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faXmark, } from '@fortawesome/free-solid-svg-icons'
-import { useContext, useState } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import styles from './Tools.module.scss'
-import { StateToolContext } from '../Provider'
 import { addWords } from '../CRUB/CRUB'
+import DropdownBtn from '../Button/DropdownBtn'
 
 const cx = classNames.bind(styles);
-export function DisplayToolAdd ({length, setData, setAddTheme}) {
-    const context = useContext(StateToolContext)
+export function DisplayToolAdd ({length, setData, setAddTheme}){ 
     const wordForm = {
         "id": "",
         "word": "",
-        "mean": "",
+        "mean": [],
+        "type": "",
         "result": [],
         "audio": "",
         "date": "",
@@ -32,7 +32,7 @@ export function DisplayToolAdd ({length, setData, setAddTheme}) {
                 case "mean":
                     return {
                         ...words,
-                        mean: value,
+                        mean: [value],
                     }
                 case "audio":
                     return {
@@ -43,19 +43,15 @@ export function DisplayToolAdd ({length, setData, setAddTheme}) {
                     break;
             }
         })
-        console.log(words)
     }
+    const [typeOfWord, setTypeOfWord] = useState('Unknown');
+    const handleTypeOfWord = (type) => {
+        setTypeOfWord(type);
+    }
+
     const handleSubmit = () => {
         //Remove whitespace
-        setWords(() => { 
-            var wordTrim = words.word.trim();
-            var meanTrim = words.mean.trim();
-            return {
-                ...words,
-                word: wordTrim,
-                mean: meanTrim,
-            }
-        })
+        var wordTrim = words.word.trim();
         // Set time 
         var today = new Date();
         var dd = String(today.getDate()).padStart(2, '0');
@@ -67,11 +63,9 @@ export function DisplayToolAdd ({length, setData, setAddTheme}) {
 
         // Set pronouce audio
         var audio = `https://dict.youdao.com/dictvoice?audio=${words.word.trim()}&type=2`
-        //Mew Data
-        const newData = {...words, date: today, audio: audio}
         // Add data
         const addAllWords = async () => {
-            const addedData = await addWords({...words, date: today, audio: audio})
+            const addedData = await addWords({...words, word: wordTrim, type: typeOfWord, audio: audio, date: today})
             setData(data => [
                 addedData,
                 ...data
@@ -80,18 +74,26 @@ export function DisplayToolAdd ({length, setData, setAddTheme}) {
         addAllWords()
         setWords(wordForm)   
     }
-    const handleCancel = () => {
-        setAddTheme(false)
-        console.log("cancel")
-    } 
-    
+    const containRef = useRef();
+    useEffect(() => {
+        const handleCancel = (e) => {
+            if(!containRef.current.contains(e.target)) {
+                setAddTheme(false)
+            }
+        }
+        document.addEventListener("mousedown", handleCancel);
+
+        return () => {
+            document.removeEventListener("mousedown", handleCancel)
+        }
+    })
     return (
         <div className={cx('wrapper')}>
             <div className={cx('overlay')}></div>
-            <div className={cx('contain')}>
+            <div className={cx('contain')} ref={containRef}>
                 <div className={cx('header')}>
                     <h1 className={cx('title')}>Add words</h1>
-                    <div className={cx('btn', 'btn-cancel')} onClick={handleCancel}>
+                    <div className={cx('btn', 'btn-cancel')} onClick={() => {setAddTheme(false)}}>
                         <FontAwesomeIcon icon={faXmark} />
                     </div>
                 </div>
@@ -112,9 +114,7 @@ export function DisplayToolAdd ({length, setData, setAddTheme}) {
                         name='mean'
                         onChange={handleChangeWord}
                     />
-                        <div className='btnAdd'>
-                        <FontAwesomeIcon icon={faHome}/>
-                        </div>
+                    <DropdownBtn wordInfo={words} value={handleTypeOfWord} />
                 </div>
                 <div className={cx('footer')}>
                     <div className={cx('btn-submit')} onClick={handleSubmit}>
